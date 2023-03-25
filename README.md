@@ -1,5 +1,5 @@
 # Java-Design-Pattern
-java 디자인 패턴 4가지<br/><br/>
+java 디자인 패턴 4가지<br/>
 1. Singleton Pattern<br/>
 특정 클래스에 객체 인스턴스가 하나만 만들어지도록 해주는 패턴<br/><br/>
 2. Strategy Pattern<br/>
